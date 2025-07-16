@@ -22,7 +22,7 @@ This application was developed as part of a **remote internship** with **Digital
 * **Flutter** – Cross-platform Framework
 * **Dart** – Programming Language
 * **image\_picker** – For image selection
-* **image / photofilters** – For editing and effects (depending on your code)
+* **image / photofilters** – For editing and effects
 
 ---
 
